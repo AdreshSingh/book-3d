@@ -52,7 +52,7 @@ export const UI = () => {
       <main className="fixed inset-0 z-10 flex flex-col justify-between pointer-events-none select-none">
         <a
           className="mt-10 ml-10 pointer-events-auto"
-          href="https://lessons.wawasensei.dev/courses/react-three-fiber"
+          href="https://youtube.com/@generatorrex8761?si=ukBsS478gbPFWjWc"
         >
           <img className="w-20" src="/images/all4one.png" />
         </a>
@@ -108,7 +108,7 @@ export const UI = () => {
               & BlissFul Year
             </h2>
             <h2 className="italic font-bold text-transparent shrink-0 text-13xl outline-text">
-              ✨🎇🌟🎉
+              ✨🎇🌟🎉By Shivank_Rex & Arpit_Devank
             </h2>
           </div>
           <div className="absolute top-0 left-0 flex items-center gap-8 px-8 bg-white/0 animate-horizontal-scroll-2 w-max">
@@ -134,7 +134,7 @@ export const UI = () => {
               & BlissFul Year
             </h2>
             <h2 className="italic font-bold text-transparent shrink-0 text-13xl outline-text">
-              ✨🎇🌟🎉
+              ✨🎇🌟🎉By Shivank_Rex & Arpit_Devank
             </h2>
           </div>
         </div>
