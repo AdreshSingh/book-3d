@@ -54,7 +54,7 @@ export const UI = () => {
           className="mt-10 ml-10 pointer-events-auto"
           href="https://lessons.wawasensei.dev/courses/react-three-fiber"
         >
-          <img className="w-20" src="/images/wawasensei-white.png" />
+          <img className="w-20" src="/images/all4one.png" />
         </a>
         <div className="flex justify-center w-full overflow-auto pointer-events-auto">
           <div className="flex items-center max-w-full gap-4 p-10 overflow-auto">
@@ -87,54 +87,54 @@ export const UI = () => {
         <div className="relative">
           <div className="flex items-center gap-8 px-8 bg-white/0 animate-horizontal-scroll w-max">
             <h1 className="font-black text-white shrink-0 text-10xl ">
-              Wawa Sensei
+              HappY
             </h1>
             <h2 className="italic font-light text-white shrink-0 text-8xl">
-              React Three Fiber
+              NeW
             </h2>
             <h2 className="font-bold text-white shrink-0 text-12xl">
-              Three.js
+              YeAr
             </h2>
             <h2 className="italic font-bold text-transparent shrink-0 text-12xl outline-text">
-              Ultimate Guide
+              2025
             </h2>
             <h2 className="font-medium text-white shrink-0 text-9xl">
-              Tutorials
+              Wishing You
             </h2>
             <h2 className="italic text-white shrink-0 text-9xl font-extralight">
-              Learn
+              A HappY
             </h2>
             <h2 className="font-bold text-white shrink-0 text-13xl">
-              Practice
+              & BlissFul Year
             </h2>
             <h2 className="italic font-bold text-transparent shrink-0 text-13xl outline-text">
-              Creative
+              ✨🎇🌟🎉
             </h2>
           </div>
           <div className="absolute top-0 left-0 flex items-center gap-8 px-8 bg-white/0 animate-horizontal-scroll-2 w-max">
             <h1 className="font-black text-white shrink-0 text-10xl ">
-              Wawa Sensei
+              HappY
             </h1>
             <h2 className="italic font-light text-white shrink-0 text-8xl">
-              React Three Fiber
+              NeW
             </h2>
             <h2 className="font-bold text-white shrink-0 text-12xl">
-              Three.js
+              YeAr
             </h2>
             <h2 className="italic font-bold text-transparent shrink-0 text-12xl outline-text">
-              Ultimate Guide
+              2025
             </h2>
             <h2 className="font-medium text-white shrink-0 text-9xl">
-              Tutorials
+              Wishing You
             </h2>
             <h2 className="italic text-white shrink-0 text-9xl font-extralight">
-              Learn
+              A HappY
             </h2>
             <h2 className="font-bold text-white shrink-0 text-13xl">
-              Practice
+              & BlissFul Year
             </h2>
             <h2 className="italic font-bold text-transparent shrink-0 text-13xl outline-text">
-              Creative
+              ✨🎇🌟🎉
             </h2>
           </div>
         </div>
